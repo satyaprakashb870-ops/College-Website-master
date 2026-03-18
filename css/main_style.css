@@ -108,7 +108,7 @@ nav img{
 
 }
 .text-box p{
-    margin: 10px 0 40px;
+    margin: 5px 0 10px;
     font-size: 14px;
     color: #fff;
     
@@ -186,7 +186,7 @@ h3{
     width: 80%;
     margin: auto;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 40px;
 }
 .campus-col{
     flex-basis: 32%;
@@ -197,6 +197,7 @@ h3{
 }
 .campus-col img{
     width: 100%;
+    object-fit: fill;
     display: block;
 }
 .layer{
@@ -239,7 +240,7 @@ h3{
     width: 80%;
     margin: auto;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 60px;
 }
 
 .facilities-col{
