@@ -77,14 +77,23 @@
 
     
 </body>
-<script src=" https://smtpjs.com/v3/smtp.js"></script>
+<script src="https://smtpjs.com/v3/smtp.js"></script>
 <script>
-    function sendmail(){
-		Email.send({}).then(
-	message => alert("Your Message Is Successful - Team GGU")
-);
-		}
-    </script>
+  function sendmail() {
+    var emailAddress = document.getElementById("emailaddress").value;
+    var phone = document.getElementById("phone").value;
+
+    Email.send({
+      SecureToken : "smtplabs_ZoR26SbLepWhd6nNfdhkMUvgdBH6nzXiyD9E6toto9R44s4D",
+      To : 'satyaprakashb870@gmail.com',
+      From : emailAddress, 
+      Subject : "To team SES",
+      Body : phone 
+    }).then(
+      message => alert("Your Message Is Successful - Team SES")
+    );
+  }
+</script>
 <script>
     var navLinks= document.getElementById("navLinks");
 
