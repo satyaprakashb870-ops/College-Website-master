@@ -11,8 +11,7 @@
 
 
 
-https://jaydipsinh-collegewebsite.netlify.app
-## Tech Stack
+https://satyaprakashb870-ops.github.io/College-Website-master/index.html
 
 **Client:** HTML, CSS, JAVASCRIPT
 
@@ -20,15 +19,15 @@ https://jaydipsinh-collegewebsite.netlify.app
 
 ## Feedback
 
-If you have any feedback, please reach out to us at jaydipsinhsolanki9297@gmail.com
+If you have any feedback, please reach out to us at satyaprakashb870@gmail.com
 
 
-## Authors
+## Contributors
+1. Satyaprakash Barik
+2. Karan Prasad
+3. Sahil Nayak
+4. Hurshikesh Rohidas
+5. Kisan Bager
 
-- [@jaydipsinh13](https://www.github.com/jaydipsinh13)
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydipsinhsolanki/)
 
 
